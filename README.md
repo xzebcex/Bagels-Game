@@ -1,7 +1,7 @@
 # Bagels Game
 
 ## Description
-Bagels is a basic logic game with deductive reasoning. The game creates a secret number, and the player has a limited number of chances to guess it. After each guess, the game gives the player several hints to assist them estimate the correct number.
+Bagels is a simple logic game that requires deductive thinking. The game generates a secret number, and the player only gets so many opportunities to guess it. Following each guess, the game provides the player with many tips to help them estimate the correct amount.
 
 ## Table of Contents
 1.	Installing and Running
